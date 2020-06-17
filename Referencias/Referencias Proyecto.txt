@@ -1,0 +1,12 @@
+https://stackoverflow.com/questions/37765925/ascii-art-in-c
+
+
+https://www.geeksforgeeks.org/shuffle-a-deck-of-cards-3/
+
+https://archive.codeplex.com/?p=cppconlib
+
+https://stackoverflow.com/questions/21238806/how-to-set-output-console-width-in-visual-studio
+
+https://stackoverflow.com/questions/18028808/remove-blinking-underscore-on-console-cmd-prompt
+
+https://stackoverflow.com/questions/18028808/remove-blinking-underscore-on-console-cmd-prompt

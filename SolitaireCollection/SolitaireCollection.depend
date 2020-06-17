@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1592424236 source:c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_1_ed\final project\solitairecollection\main.cpp
+	"GameState.h"
+	"conmanip.h"
+
+1592424163 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_1_ed\final project\solitairecollection\include\gamestate.h
+	<iostream>
+	"ArrayStack.h"
+	"LinkedList.h"
+	"LinkedStack.h"
+	"ArrayList.h"
+	"DLinkedList.h"
+	"SolitarioS.h"
+	"Carta.h"
+	<string>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<limits>
+
+1592073345 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_1_ed\final project\solitairecollection\include\arraystack.h
+	"Stack.h"
+	<stdexcept>
+	"Gotoxy.h"
+
+1591927735 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_1_ed\final project\solitairecollection\include\stack.h
+
+1592424163 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_1_ed\final project\solitairecollection\include\gotoxy.h
+	<windows.h>
+	<iostream>
+
+1592415770 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_1_ed\final project\solitairecollection\include\linkedlist.h
+	"Node.h"
+	"List.h"
+
+1583512720 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_1_ed\final project\solitairecollection\include\node.h
+
+1592006008 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_1_ed\final project\solitairecollection\include\list.h
+
+1592415385 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_1_ed\final project\solitairecollection\include\linkedstack.h
+	"Node.h"
+	<iostream>
+
+1592356988 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_1_ed\final project\solitairecollection\include\arraylist.h
+	"List.h"
+	<stdexcept>
+
+1592356956 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_1_ed\final project\solitairecollection\include\dlinkedlist.h
+	"DNode.h"
+	<stdexcept>
+
+1587226214 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_1_ed\final project\solitairecollection\include\dnode.h
+
+1591930044 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_1_ed\final project\solitairecollection\include\carta.h
+	<iostream>
+
+1515541466 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_1_ed\final project\solitairecollection\include\conmanip.h
+	<windows.h>
+	<iostream>
+	<string>
+
+1592424163 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_1_ed\final project\solitairecollection\include\solitarios.h
+	<iomanip>
+	<limits>
+	"Stack.h"
+	"LinkedStack.h"
+	"ArrayList.h"
+	"time.h"
+	"Gotoxy.h"
+
