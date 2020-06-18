@@ -1,5 +1,6 @@
 #include "GameState.h"
 #include"conmanip.h"
+#define _WIN32_WINNT 0x0500
 
 using namespace conmanip;
 
@@ -133,7 +134,6 @@ case 1:
             system("pause");
         }
         PunjaePartida(gs.getPuntajeGolf());
-        break;
     }
     else if (opc == 0){
         system("cls");
@@ -143,10 +143,10 @@ case 1:
         PunjaePartida(gs.getPuntajeGolf());
     }
     else{
-        cout<<"Esta opcion no es valida!";
-        opc = read_input();
+        cout<<"Esta opcion no es valida!"<<endl;
     }
     }while((opc != 1) && (opc != 0));
+    break;
 
 case 2:
 

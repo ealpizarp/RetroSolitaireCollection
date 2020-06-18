@@ -153,23 +153,14 @@ public:
     append(temp.getElement());
     temp.next();
     }
-
-
     append(pivote);
-
-
     temp2.goToStart();
     for(int i=0 ; i<temp2.getSize(); i++){
     append(temp2.getElement());
     temp2.next();
     }
-
-
-
     }
-
     }
-
 
         void print(int x){
         goToStart();

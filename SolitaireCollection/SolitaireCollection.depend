@@ -1,9 +1,9 @@
 # depslib dependency file v1.0
-1592424236 source:c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_1_ed\final project\solitairecollection\main.cpp
+1592447420 source:c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_1_ed\final project\solitairecollection\main.cpp
 	"GameState.h"
 	"conmanip.h"
 
-1592424163 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_1_ed\final project\solitairecollection\include\gamestate.h
+1592447738 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_1_ed\final project\solitairecollection\include\gamestate.h
 	<iostream>
 	"ArrayStack.h"
 	"LinkedList.h"
@@ -46,7 +46,7 @@
 	"List.h"
 	<stdexcept>
 
-1592356956 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_1_ed\final project\solitairecollection\include\dlinkedlist.h
+1592447718 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_1_ed\final project\solitairecollection\include\dlinkedlist.h
 	"DNode.h"
 	<stdexcept>
 
